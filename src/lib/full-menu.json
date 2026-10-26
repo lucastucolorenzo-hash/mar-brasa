@@ -1,0 +1,1268 @@
+[
+  {
+    "name": "Calabresa Acebolada",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Feijoada (Individual)",
+    "price": "R$ 59,90",
+    "category": "Feijoada",
+    "description": "Feijoada, arroz branco, couve, farofa, torresmo e banana à milanesa"
+  },
+  {
+    "name": "Combo Temaki + Hot",
+    "price": "R$ 54,00",
+    "category": "Combos",
+    "description": "Acompanha: (01) Temaki Salmão Cru,(04) Hot Roll Tradicional"
+  },
+  {
+    "name": "Churrasquinho De Carne",
+    "price": "R$ 39,90",
+    "category": "Prato do Dia",
+    "description": "acompanha arroz branco farofa ,vinagrete e salada de maionese"
+  },
+  {
+    "name": "Escondidinho De Carne Seca",
+    "price": "R$ 39,90",
+    "category": "Prato do Dia",
+    "description": ""
+  },
+  {
+    "name": "Parmegiana De Filé Mignom",
+    "price": "R$ 39,90",
+    "category": "Prato do Dia",
+    "description": "Acompanha arroz e fritas"
+  },
+  {
+    "name": "BOBO DE CAMARÃO",
+    "price": "R$ 99,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha arroz branco e batata frita"
+  },
+  {
+    "name": "Contra Filé Acebolado",
+    "price": "R$ 49,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Camarão No Catupiry",
+    "price": "R$ 80,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Batata Frita,Salada"
+  },
+  {
+    "name": "CONTRA FILE A CAVALO",
+    "price": "R$ 52,90",
+    "category": "Pratos Executivos",
+    "description": "acompanha arroz branco, feijão, ovo, batata frita e salada"
+  },
+  {
+    "name": "Espaguete Á Bolonhesa",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Um Delicioso Molho Á Bolonhesa Do Chef,Queijo"
+  },
+  {
+    "name": "Espaguete Molho Branco",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Um Delicioso Molho Branco Do Chef,Queijo"
+  },
+  {
+    "name": "FILE DE TILÁPIA GRELHADA",
+    "price": "R$ 58,90",
+    "category": "Pratos Executivos",
+    "description": "acompanha arroz branco e legumes salteados, molho a escolha: Bellemanier, camarão ou na manteiga"
+  },
+  {
+    "name": "Filé Mignon Á Milanesa",
+    "price": "R$ 52,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Filé De Frango Á Milanesa",
+    "price": "R$ 45,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Filé De Frango Grelhado",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Isca De Filé Mignon",
+    "price": "R$ 47,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Kids - Isca De Frango",
+    "price": "R$ 38,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Kids - ISCA DE FILE MIGNON",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Feijão,Batata Frita,"
+  },
+  {
+    "name": "Mistura Extra TILAPIA EMPANADA",
+    "price": "R$ 26,90",
+    "category": "Pratos Executivos",
+    "description": "mistura extra de tiras de tilapia empanada"
+  },
+  {
+    "name": "Moqueca De Cação Mar & Brasa",
+    "price": "R$ 99,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Batata Frita"
+  },
+  {
+    "name": "Nhoque Á Bolonhesa",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": ""
+  },
+  {
+    "name": "Nhoque Ao Molho Sugo",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Um Delicioso Molho de Tomate Do Chef,Queijo"
+  },
+  {
+    "name": "OMELETE",
+    "price": "R$ 41,90",
+    "category": "Pratos Executivos",
+    "description": "Omelete com queijo, tomate, cebola e salsa. acompanha arroz brnco, feijão batata frita e salada"
+  },
+  {
+    "name": "Parmegiana Carne (Individual )",
+    "price": "R$ 69,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Batata Frita"
+  },
+  {
+    "name": "Parmegiana Frango (Individual )",
+    "price": "R$ 59,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco,Batata Frita"
+  },
+  {
+    "name": "Picanha Mar & Brasa - Prato",
+    "price": "R$ 79,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco, Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "PRATO FITNESS LEGUMES",
+    "price": "R$ 44,90",
+    "category": "Pratos Executivos",
+    "description": "acompanha frango grelhado com legumes salteados no azeite"
+  },
+  {
+    "name": "Tiras De Tilápia À Dorê",
+    "price": "R$ 59,90",
+    "category": "Pratos Executivos",
+    "description": "Acompanha: Arroz Branco, Feijão,Batata Frita,Salada"
+  },
+  {
+    "name": "Caldinho Quirela",
+    "price": "R$ 39,90",
+    "category": "Caldinho",
+    "description": "mussarela, pão e cebolinha"
+  },
+  {
+    "name": "Caldinho Feijão",
+    "price": "R$ 39,90",
+    "category": "Caldinho",
+    "description": "mussarela, pão e cebolinha"
+  },
+  {
+    "name": "Caldinho Caldo Verde",
+    "price": "R$ 39,90",
+    "category": "Caldinho",
+    "description": "mussarela, pão e cebolinha"
+  },
+  {
+    "name": "Caldinho Abobora Com Carne Seca",
+    "price": "R$ 39,90",
+    "category": "Caldinho",
+    "description": ""
+  },
+  {
+    "name": "Caldinho Mandioquinha Com Frango",
+    "price": "R$ 39,90",
+    "category": "Caldinho",
+    "description": ""
+  },
+  {
+    "name": "Feijoada (2 Pessoas)",
+    "price": "R$ 109,90",
+    "category": "Feijoada",
+    "description": ""
+  },
+  {
+    "name": "Combo Quente",
+    "price": "R$ 70,00",
+    "category": "Combos",
+    "description": "Acompanha: (02) Huramaki de Salmão,(02) Guioza Suíno,(02) Bolinho Mar & Brasa,(01) Shimeji Na Mateiga"
+  },
+  {
+    "name": "Combo Salmão ( 02 Pessoas ) - 26 Pçs",
+    "price": "R$ 155,90",
+    "category": "Combos",
+    "description": "Acompanha: (10) Sashimi de Salmão,(04) Uramaki de Salmão Cru,(04) Uramaki de Salmão Grelhado,(02) Niguiri de Salmão,(02) Joe de Salmão Tradicional,(04) Hot Roll Tradicional"
+  },
+  {
+    "name": "Combo Mar & Brasa ( 04 Pessoas ) - 70 Pçs",
+    "price": "R$ 344,00",
+    "category": "Combos",
+    "description": "Acompanha: (12) Sashimi de Salmão,(12) Sashimi de Peixe Branco,(08) Uramaki de Salmão Cru,(08) Uramaki de Salmão Grelhado,(08) Niguiri de Salmão,(08) Joe de Salmão Tradicional,(08) Hot Roll Tradicional,(08) Hossomaki de Salmão"
+  },
+  {
+    "name": "COMBO TEMAKI URAMAKI",
+    "price": "R$ 55,90",
+    "category": "Combos",
+    "description": ""
+  },
+  {
+    "name": "Combo Salmão 1 Pessoa",
+    "price": "R$ 93,90",
+    "category": "Combos",
+    "description": "4 sashimi salmão, 4 Uramaki salmão, 4 joe salmão tradicional e 4 hot roll tradicional"
+  },
+  {
+    "name": "Guiozá Bovino E Suíno Frito - 02 Unid",
+    "price": "R$ 29,00",
+    "category": "Japonês",
+    "description": ""
+  },
+  {
+    "name": "Harumaki Rolinho Pimavera Queijo - 04 Unid",
+    "price": "R$ 29,00",
+    "category": "Japonês",
+    "description": ""
+  },
+  {
+    "name": "Harumaki Rolinho Pimavera Camarão C/ Catupiry - 04 Unid",
+    "price": "R$ 30,90",
+    "category": "Japonês",
+    "description": ""
+  },
+  {
+    "name": "Harumaki Rolinho Primavera Salmão - 04 Unid",
+    "price": "R$ 30,90",
+    "category": "Japonês",
+    "description": ""
+  },
+  {
+    "name": "Harumaki Rolinho Primavera Legumes - 04 Unid",
+    "price": "R$ 29,90",
+    "category": "Japonês",
+    "description": ""
+  },
+  {
+    "name": "Tempurá De Legumes - Unid",
+    "price": "R$ 28,90",
+    "category": "Japonês",
+    "description": "Legumes Fritos e Molho Agridoce"
+  },
+  {
+    "name": "Tempurá De Camarão",
+    "price": "R$ 38,90",
+    "category": "Japonês",
+    "description": "Camarão e Legumes Fritos e Molho Agridoce"
+  },
+  {
+    "name": "Ceviche De Tilapia",
+    "price": "R$ 37,90",
+    "category": "Japonês",
+    "description": "Peixe Branco,Cebola Roxa,Limão,Gengibre,Coentro,Pimenta Biquinho e Chips de Batata Doce"
+  },
+  {
+    "name": "Ceviche De Salmão",
+    "price": "R$ 49,90",
+    "category": "Japonês",
+    "description": "Salmão,Cebola Roxa,Limão,Gengibre,Coentro,Pimenta Biquinho e Chips de Batata Doce"
+  },
+  {
+    "name": "Sumonomo - 150 Gr",
+    "price": "R$ 21,90",
+    "category": "Japonês",
+    "description": "Pepino Desidratado C/ Molho Agridoce e Gergelin"
+  },
+  {
+    "name": "SUNOMONO",
+    "price": "R$ 22,00",
+    "category": "Japonês",
+    "description": "150GR DE PEPINO DESIDRATADO COM MOLHO AGRIDOCE E GERGELIM"
+  },
+  {
+    "name": "TARTAR",
+    "price": "R$ 41,90",
+    "category": "Japonês",
+    "description": "salmão cru, atum cru, peixe branco cru . ( escolha uma proteina )"
+  },
+  {
+    "name": "TELPAN SALMÃO",
+    "price": "R$ 94,90",
+    "category": "Japonês",
+    "description": "4 postas de samão grelhado com legumes servido na chapa quente"
+  },
+  {
+    "name": "SOPA DE SOJA MISSOSHIRO",
+    "price": "R$ 24,90",
+    "category": "Japonês",
+    "description": "cebolinha e toffu"
+  },
+  {
+    "name": "BOLINHO MAR E BRASA",
+    "price": "R$ 23,90",
+    "category": "Japonês",
+    "description": "4 unidades bolinhos de arroz, peixe grelhado, legumes e tempero do cheff"
+  },
+  {
+    "name": "PORÇÃO DE EDAMAME",
+    "price": "R$ 13,90",
+    "category": "Japonês",
+    "description": "feijão de soja, tempero com sal, azeite e gergelim"
+  },
+  {
+    "name": "Poke Mar & Brasa Vegetariano",
+    "price": "R$ 43,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Shimeji,Palmito,Lascas de Gengibre,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi,Chips de Batata e Cebolinha"
+  },
+  {
+    "name": "Poke Mar & Brasa Ceviche Tilapia",
+    "price": "R$ 41,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Ceviche Peixe Branco,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi e Cebolinha"
+  },
+  {
+    "name": "Poke Mar & Brasa Salmão Cru E Polvo",
+    "price": "R$ 62,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Salmão Cru Em Cubos,Polvo,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi,Chips de Banana,Cream Cheese e Cebolinha"
+  },
+  {
+    "name": "Poke Mar & Brasa Salmão Gelhado",
+    "price": "R$ 49,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Salmão Cru Em Cubos Empanados,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi,Chips de Banana,Cream Cheese e Cebolinha"
+  },
+  {
+    "name": "Poke Mar & Brasa Salmão Empanado C/ Camarão Empanado!",
+    "price": "R$ 68,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Salmão Cru Em Cubos Empanados,Camarão Empanado,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi,Chips de Banana,Cream Cheese e Cebolinha"
+  },
+  {
+    "name": "Poke Mar & Brasa Ceviche De Salmão",
+    "price": "R$ 59,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Salmão Cru Em Cubos,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi,Chips de Banana,Cream Cheese e Cebolinha"
+  },
+  {
+    "name": "Poke Mar & Brasa Tilápia Empanada",
+    "price": "R$ 47,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce,Peixe Branco Empanados,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi,Chips de Banana,Cream Cheese e Cebolinha"
+  },
+  {
+    "name": "Poke Atum",
+    "price": "R$ 57,90",
+    "category": "Poke",
+    "description": "Arroz Agridoce, Atum,Cenoura,Kani,Pepino,Beterraba,Tomate Seco,Edamame,Manga,Nori,Crips de Batata Doce,Pimeta Togarashi e Cebolinha"
+  },
+  {
+    "name": "POKE LOW",
+    "price": "R$ 62,90",
+    "category": "Poke",
+    "description": "salada e legumes do chef + 1 proteina da sua escolha"
+  },
+  {
+    "name": "POKE YAKIMIX MAR &BRASA",
+    "price": "R$ 69,90",
+    "category": "Poke",
+    "description": "camarão empanado, tilapia empanada, salmão e atum em cubos cru, pepino, beterraba, cenoura, kani, tomate seco, nori, cebolinha, gergelim, manga, chips de banana, chips de batata doce, cream chees, arroz agridoce, furikake, edamame, molho de mostarda alcaparras e mel"
+  },
+  {
+    "name": "POKE BRISA TROPICAL Cagragua Gosto 2026",
+    "price": "R$ 64,90",
+    "category": "Poke",
+    "description": "Salmão agridoce marinado na laranja e empanado ao molho xadrez, amendoim torrado, shari, manga, pepino, chips baana, chips de batata doce roxa, alface americana e cenoura ralado, cebola roxa caramelizada, tomate seco, cebolinha, gergelim torrado e alho poró"
+  },
+  {
+    "name": "Temaki Califórnia - Unid",
+    "price": "R$ 26,90",
+    "category": "Temaki",
+    "description": "Pepino,Manga,Kani"
+  },
+  {
+    "name": "Temaki De Shimeji - Unid",
+    "price": "R$ 38,00",
+    "category": "Temaki",
+    "description": "Shimeji,Cebolinha"
+  },
+  {
+    "name": "Temaki De Ceviche Peixe Branco - Unid",
+    "price": "R$ 38,90",
+    "category": "Temaki",
+    "description": "Ceviche de Peixe Branco,Pepino"
+  },
+  {
+    "name": "Temaki De Skin C/ Zestes De Limão E Cream Cheese - Unid",
+    "price": "R$ 29,90",
+    "category": "Temaki",
+    "description": "Pele de Salmão Selado,Cream Cheese,Cebolinha,Zestes de Limão,Molho Teryaki Apimentado"
+  },
+  {
+    "name": "Temaki De Salmão Cru - Unid",
+    "price": "R$ 43,90",
+    "category": "Temaki",
+    "description": "Salmão Cru Em Cubos,Cream Cheese,Cebolinha"
+  },
+  {
+    "name": "Temaki De Salmão Thai - Unid",
+    "price": "R$ 43,90",
+    "category": "Temaki",
+    "description": "Salmão Cru Em Cubos,Pimenta Sriracha,Cebolinha"
+  },
+  {
+    "name": "Temaki De Salmão Grelhado - Unid",
+    "price": "R$ 37,90",
+    "category": "Temaki",
+    "description": "Salmão Grelhado,Cream Cheese,Cebolinha,Mostarda Dijon e Zestes de Limão"
+  },
+  {
+    "name": "Temaki De Salmão 100 % Empanado - Unid",
+    "price": "R$ 49,90",
+    "category": "Temaki",
+    "description": "\" Temaki Todo Empanado\" Salmão Grelhado,Cream Cheese,Cebolinha,Molho Teryaki"
+  },
+  {
+    "name": "Temaki De Atum C/ Tomate Seco - Unid",
+    "price": "R$ 40,90",
+    "category": "Temaki",
+    "description": "Atum,Tomate Seco,Maionese,Cebolinha,Gergelim"
+  },
+  {
+    "name": "Temaki De Camarão À Provençal - Unid",
+    "price": "R$ 49,90",
+    "category": "Temaki",
+    "description": "Camarão Alho e Óleo,Cream Cheese,Cebolinha"
+  },
+  {
+    "name": "Temaki De Camarão Empanado - Unid",
+    "price": "R$ 48,90",
+    "category": "Temaki",
+    "description": "Camarão Empanado,Cream Cheese,Cebolinha,Molho Teryaki"
+  },
+  {
+    "name": "Temaki De Polvo - Unid",
+    "price": "R$ 48,90",
+    "category": "Temaki",
+    "description": "Polvo,Cream Cheese,Cebolinha"
+  },
+  {
+    "name": "Temaki Mix Atum / Salmão / Peixe Branco - Unid",
+    "price": "R$ 47,90",
+    "category": "Temaki",
+    "description": "Atum,Salmão Cru,Peixe Branco,Cream Cheese,Cebolinha"
+  },
+  {
+    "name": "Temaki De Salmão Cru S/ Arroz - Unid",
+    "price": "R$ 56,90",
+    "category": "Temaki",
+    "description": "Salmão Cru,Cream Cheese,Cebolinha"
+  },
+  {
+    "name": "TEMAKI De Camarão E Salmão Fry",
+    "price": "R$ 44,90",
+    "category": "Temaki",
+    "description": "camarão e salmão empanado, cream cheese, cebolinha"
+  },
+  {
+    "name": "Salmão Flambado E Trufado",
+    "price": "R$ 59,90",
+    "category": "Sashimi",
+    "description": "10 fatias"
+  },
+  {
+    "name": "Niguiri Salmão - 04 Unid",
+    "price": "R$ 23,90",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Peixe Branco - 04 Unid",
+    "price": "R$ 21,60",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Atum - 04 Unid",
+    "price": "R$ 21,11",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Camarão - 04 Unid",
+    "price": "R$ 26,40",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Kani - 04 Unid",
+    "price": "R$ 21,60",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Skin E Limão - 04 Unid",
+    "price": "R$ 17,90",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Salmão Flambado - 04 Unid",
+    "price": "R$ 21,60",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Atum Brullê - 04 Unid",
+    "price": "R$ 23,90",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Tamago - 04 Unid",
+    "price": "R$ 21,60",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Polvo - 04 Unid",
+    "price": "R$ 23,90",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Niguiri Peixe Branco Trufado E Ovas Tobiko - 04 Unid",
+    "price": "R$ 29,90",
+    "category": "Niguiri",
+    "description": ""
+  },
+  {
+    "name": "Uramaki Califórnia - 08 Unid",
+    "price": "R$ 41,90",
+    "category": "Uramaki",
+    "description": "Manga,Kani,Pepino. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Salmão Cru - 08 Unid",
+    "price": "R$ 45,60",
+    "category": "Uramaki",
+    "description": "Salmão Cru,Cream Cheese. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Salmão Grelhado - 08 Unid",
+    "price": "R$ 40,80",
+    "category": "Uramaki",
+    "description": "Salmão Grelhado,Cream Cheese,Cebolinha. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Skin - 08 Unid",
+    "price": "R$ 33,60",
+    "category": "Uramaki",
+    "description": "Pele De Salmão Selado,Cream Cheese,Pimenta Sriracha,Limão. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Atum - 08 Unid",
+    "price": "R$ 36,48",
+    "category": "Uramaki",
+    "description": "Atum,Maionese,Cebolinha. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Ebifry - 08 Unid",
+    "price": "R$ 41,90",
+    "category": "Uramaki",
+    "description": "Camarão Empanado,Cream Cheese,Cebolinha. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Especial - 08 Unid",
+    "price": "R$ 43,90",
+    "category": "Uramaki",
+    "description": "Salmão Cru,Kani,Tomate Seco,Edamame,Crisps Beterraba,Mostarda Dijon. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Ebysalmon Fry - 08 Unid",
+    "price": "R$ 45,60",
+    "category": "Uramaki",
+    "description": "Salmão e Camarão Empanados,Cream Cheese,Molho Teriyaki de Frutas Vermelhas. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Uramaki Mix Tataki - 08 Unid",
+    "price": "R$ 43,20",
+    "category": "Uramaki",
+    "description": "Peixe Branco,Salmão Cru,Atum,Cream Cheese,Cebolinha,Crisps de Batata Doce. Enrolado de Arroz,Por Fora Gergelim"
+  },
+  {
+    "name": "Hossomaki Shakemaki ( Salmão Cru ) - 08 Unid",
+    "price": "R$ 29,90",
+    "category": "Hossomaki",
+    "description": "Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Kanimaki ( Kani ) - 08 Unid",
+    "price": "R$ 26,40",
+    "category": "Hossomaki",
+    "description": "Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Kapamaki ( Pepino ) - 08 Unid",
+    "price": "R$ 26,40",
+    "category": "Hossomaki",
+    "description": "Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Ebimak ( Camarão ) - 08 Unid",
+    "price": "R$ 29,90",
+    "category": "Hossomaki",
+    "description": "Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Tekamaki ( Atum ) - 08 Unid",
+    "price": "R$ 29,90",
+    "category": "Hossomaki",
+    "description": "Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Futomaki - 08 Unid",
+    "price": "R$ 41,90",
+    "category": "Hossomaki",
+    "description": "Salmão Cru,Kani,Pepino,Cenoura,Tamago,Camarão. Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Acelgamaki - 08 Unid",
+    "price": "R$ 35,90",
+    "category": "Hossomaki",
+    "description": "Acelga,Salmão Grelhado,Cream Cheese,Cebolinha,Molho Teriyaki,Crisps de Couve. Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "Hossomaki Tamagoyaki - 08 Unid",
+    "price": "R$ 32,40",
+    "category": "Hossomaki",
+    "description": "Ovos,Salmão Cru,Pepino,Cenoura,Kani,Tomate Seco,Mostarda Dijon C/ Alcaparras,Cream Cheese,Cebolinha,Crisps de Beterraba. Enrolados De Arroz Por Dentro !"
+  },
+  {
+    "name": "ACELGAMAKI",
+    "price": "R$ 32,90",
+    "category": "Hossomaki",
+    "description": "enrolado de acelga, salmão grelhado, cream cheese, cebolinha, molho teriyaki e crisps de couve, 08 unidades"
+  },
+  {
+    "name": "Joe Salmão Tradicional - 04 Unid",
+    "price": "R$ 23,90",
+    "category": "Joe",
+    "description": "Acompanha: Cream Cheese,Gergelim,Cebolinha"
+  },
+  {
+    "name": "Joe Salmão Flambado E Trufado - 04 Unid",
+    "price": "R$ 31,20",
+    "category": "Joe",
+    "description": "Acompanha: Cream Cheese,Gergelim,Cebolinha"
+  },
+  {
+    "name": "Gunkan Pepino,Shimeji C/ Chips De Banana - 04 Unid",
+    "price": "R$ 23,90",
+    "category": "Joe",
+    "description": "Acompanha: Cream Cheese,Gergelim,Cebolinha"
+  },
+  {
+    "name": "Joe Salmão / Peixe Branco / Atum - 04 Unid",
+    "price": "R$ 26,40",
+    "category": "Joe",
+    "description": "Acompanha: Cream Cheese,Gergelim,Cebolinha"
+  },
+  {
+    "name": "Filé Mignon Angus Á Parmegiana + Batata Frita - 250 Gr",
+    "price": "R$ 159,90",
+    "category": "Japonês",
+    "description": "Filé Mignon Empanado Na Farinha Panko,Coberto C/ Molho De Tomate Artesanal Do Chef,Mussarela Gratinada. Acompanha: Arroz Branco"
+  },
+  {
+    "name": "Filé De Frango Á Parmegiana + Batata Frita 250 Gr",
+    "price": "R$ 139,90",
+    "category": "Japonês",
+    "description": "Filé de Frango Empanado Na Farinha Panko,Coberto C/ Molho De Tomate Artesanal Do Chef,Mussarela Gratinada. Acompanha: Arroz Branco"
+  },
+  {
+    "name": "Risoto De Palmito",
+    "price": "R$ 93,90",
+    "category": "Japonês",
+    "description": "Risoto De Palmito, Alho Poró 400 Gr.Acompanha : Queijo"
+  },
+  {
+    "name": "Risoto De Filé Mignon",
+    "price": "R$ 93,90",
+    "category": "Japonês",
+    "description": "Risoto Filé Mignon, 400 Gr.Acompanha : Queijo"
+  },
+  {
+    "name": "Risoto De Camarão",
+    "price": "R$ 93,90",
+    "category": "Japonês",
+    "description": "Risoto de Camarão Flambado 400 Gr.Acompanha : Queijo"
+  },
+  {
+    "name": "BOBO DE CAMARÃO",
+    "price": "R$ 204,90",
+    "category": "Japonês",
+    "description": "bobo de camarão 7 barbas, acompanha arroz branco e batata frita"
+  },
+  {
+    "name": "PRATO KID JANTAR",
+    "price": "R$ 49,90",
+    "category": "Japonês",
+    "description": "1 proteina a escolha iscas de frango, ou iscas de file mignon acompanha arroz branco , feijão e batata frita"
+  },
+  {
+    "name": "Hot Roll - Harumaki Hot S/ Nori - 08 Unid",
+    "price": "R$ 37,90",
+    "category": "Hot Roll",
+    "description": "Enrolado Na Massa de Harumaki,Arroz,Salmão Cru,Cream Cheese,Cebolinha,Molho Teriyaki,Gergelim. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Tradicional - 08 Unid",
+    "price": "R$ 30,00",
+    "category": "Hot Roll",
+    "description": "Arroz,Salmão Grelhado,Cebolinha,Molho Teriyaki,Gergelim. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Cream - 08 Unid",
+    "price": "R$ 39,90",
+    "category": "Hot Roll",
+    "description": "Arroz,Salmão Grelhado,Cebolinha,Molho Teriyaki,Gergelim,Cream Cheese. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Filadelfia - 08 Unid",
+    "price": "R$ 38,90",
+    "category": "Hot Roll",
+    "description": "Arroz,Salmão Cru,Kani,,Cebolinha,Molho Teriyaki,Gergelim,Cream Cheese. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Ebifry - 08 Unid",
+    "price": "R$ 50,40",
+    "category": "Hot Roll",
+    "description": "Arroz,Camarão Empanado,Cebolinha,Molho Teriyaki,Gergelim,Cream Cheese. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Ebisalmon Fry - 08 Unid",
+    "price": "R$ 50,40",
+    "category": "Hot Roll",
+    "description": "Arroz, Salmão e Camarão Empanado,Cebolinha,Molho Teriyaki,Gergelim,Cream Cheese. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Especial - 08 Unid",
+    "price": "R$ 57,60",
+    "category": "Hot Roll",
+    "description": "Arroz,Camarão Provençal,Kani,Salmão Cru,Shimeji,Cebolinha,Molho Teriyaki,Gergelim,Cream Cheese. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "Hot Roll - Nutella C/ Banana - 08 Unid",
+    "price": "R$ 46,80",
+    "category": "Hot Roll",
+    "description": "Arroz,Banana,Nutella,Cream Cheese,Leite Condensado,Canela. Enrolado e Empanados e Frito !"
+  },
+  {
+    "name": "HOT DOG SUSHI",
+    "price": "R$ 47,90",
+    "category": "Hot Roll",
+    "description": "salmão cru, salmão grelhado, atum cru, shimeji. ( escolha uma proteina )"
+  },
+  {
+    "name": "HOT ROLL DE SHIMEJI",
+    "price": "R$ 40,90",
+    "category": "Hot Roll",
+    "description": "arroz, enrolado de shimeji grelhado e ebolinha"
+  },
+  {
+    "name": "Bruschetta - 05 Unid",
+    "price": "R$ 39,60",
+    "category": "Pratos Especiais",
+    "description": "Pão Semi - Italiano C/ Tomates Ralado,Sal de Parilla"
+  },
+  {
+    "name": "Espeto De Camarão Empanado - 01 Unid",
+    "price": "R$ 25,00",
+    "category": "Pratos Especiais",
+    "description": "Camarão Sete Barbas Empanado e Molho Do Chef"
+  },
+  {
+    "name": "Espeto De Camarão C/ Catupiry - 01 Unid",
+    "price": "R$ 26,00",
+    "category": "Pratos Especiais",
+    "description": "Camarão Sete Barbas Coberto C/ Catupiry e Molho Do Chef"
+  },
+  {
+    "name": "Salada Caeser",
+    "price": "R$ 47,80",
+    "category": "Pratos Especiais",
+    "description": "Acompanha : Tomate cereja. alface americano, parmesão ralado, croutons e molho especial da casa"
+  },
+  {
+    "name": "SALADA PREMIUM",
+    "price": "R$ 45,90",
+    "category": "Pratos Especiais",
+    "description": ""
+  },
+  {
+    "name": "Familia Mar & Brasa",
+    "price": "R$ 175,90",
+    "category": "Pratos Especiais",
+    "description": "Alcatra Acebolada (600 Gr) + Frango Em Cubos ( 500 Gr) + Batata Frita ( 500 Gr).Acompanha: Pão,Vinagrete,Maionese Do Chef,Ketchup. Serve 02 a 03 Pessoas"
+  },
+  {
+    "name": "Picanha Angus Mar & Brasa - 500 Gr + Batata Frita - 500 Gr",
+    "price": "R$ 289,90",
+    "category": "Pratos Especiais",
+    "description": "Acompanha: Vinagrete,Maionese Do Chef,Ketchup. Serve 02 a 03 Pessoas"
+  },
+  {
+    "name": "Fraldinha Angus Mar & Brasa - 500 Gr + Batata Frita - 500 Gr",
+    "price": "R$ 227,90",
+    "category": "Pratos Especiais",
+    "description": "Acompanha: Vinagrete,Maionese Do Chef,Ketchup. Serve 02 a 03 Pessoas"
+  },
+  {
+    "name": "Ancho Angus Mar & Brasa - 500 Gr + Batata Frita - 500 Gr",
+    "price": "R$ 199,90",
+    "category": "Pratos Especiais",
+    "description": "Acompanha: Vinagrete,Maionese Do Chef,Ketchup. Serve 02 a 03 Pessoas"
+  },
+  {
+    "name": "Chorizo Angus Mar & Brasa - 500 Gr + Batata Frita - 500 Gr",
+    "price": "R$ 215,90",
+    "category": "Pratos Especiais",
+    "description": "Acompanha: Vinagrete,Maionese Do Chef,Ketchup. Serve 02 a 03 Pessoas"
+  },
+  {
+    "name": "Camarão No Abacaxi - 02 Pessoas",
+    "price": "R$ 199,90",
+    "category": "Pratos para 2",
+    "description": "Camarão Sete Barbas Limpo, Ao Molho Do Chef,Coberto C/ Catupiry e Servido No Abacaxi,Acompanha: Arroz Branco,Batata Frita"
+  },
+  {
+    "name": "Classico + Batata Frita - 100 Gr",
+    "price": "R$ 52,90",
+    "category": "Hambúrgueres",
+    "description": "Com a delicioso smash burguer angus de 90g , preparada na nossa chapa de alta performance com queijo cheddar derretido, salada fresquinha ( alface ,tomate )maionese artesanal do chef no pão de brioche selado"
+  },
+  {
+    "name": "Pcq + Batata Frita - 100 Gr",
+    "price": "R$ 49,90",
+    "category": "Hambúrgueres",
+    "description": "Com a delicioso smash burguer angus de 90g , preparada na nossa chapa de alta performance com queijo cheddar derretido, maionese artesanal do chef no pão de brioche selado"
+  },
+  {
+    "name": "Super Bacon + Batata Frita - 100 Gr",
+    "price": "R$ 59,90",
+    "category": "Hambúrgueres",
+    "description": "Com a delicioso smash burguer angus de 90g , preparada na nossa chapa de alta performance com queijo cheddar derretido, maionese artesanal do chef, bacon defumado no pão de brioche selado"
+  },
+  {
+    "name": "Frango + Batata Frita - 100 Gr",
+    "price": "R$ 42,90",
+    "category": "Hambúrgueres",
+    "description": "Com o burguer de frango empanado e frito de 100g , com queijo cheddar derretido, maionese artesanal do chefbacon defumado no pão de brioche selado"
+  },
+  {
+    "name": "HAMBURGUER SUSHI",
+    "price": "R$ 53,90",
+    "category": "Hambúrgueres",
+    "description": "salmão cru, salmão grelhado, atum cru, shimeji ( excolha uma proteina )"
+  },
+  {
+    "name": "BURGER DA BARBIE",
+    "price": "R$ 51,90",
+    "category": "Hambúrgueres",
+    "description": "pao brioche rosa selado na manteiga, maionese rosa, queijo mussarela, alface, tomate e 200 gr de hamburger angus. acompanha batata frita já temperada"
+  },
+  {
+    "name": "Burguer Vegetariano",
+    "price": "R$ 49,90",
+    "category": "Hambúrgueres",
+    "description": "pão brioche, 120 gr de hamburguer de lentilha, grão de bico, soja e fibra de beterraba, queijo mussarela, alface e tomate. acompanha batata frita"
+  },
+  {
+    "name": "HOT DOG SUSHI",
+    "price": "R$ 45,90",
+    "category": "Hambúrgueres",
+    "description": "salmão cru ou grelhado ou atum ou shimeji"
+  },
+  {
+    "name": "Burger De Picanha",
+    "price": "R$ 68,90",
+    "category": "Hambúrgueres",
+    "description": "pão semi italiano, selado na manteiga, 200gr de picanha premium em fatias, queijo mussarela derretido e maionese defumada"
+  },
+  {
+    "name": "X PCQ DUPLO",
+    "price": "R$ 59,90",
+    "category": "Hambúrgueres",
+    "description": ""
+  },
+  {
+    "name": "Pcq Duplo",
+    "price": "R$ 59,90",
+    "category": "Hambúrgueres",
+    "description": ""
+  },
+  {
+    "name": "Alcatra Acebolada C/ Queijo Coalho E Tomate Picado - 600 Gr",
+    "price": "R$ 155,90",
+    "category": "Porções",
+    "description": "Acompanha: Pão,Vinagre,Farofa,Uma Deliciosa Maionese Do Chef"
+  },
+  {
+    "name": "Baguete De Alho Gourmet C/ Alcatra Acebolada E Quejo Coalho - 200 Gr",
+    "price": "R$ 83,90",
+    "category": "Porções",
+    "description": "Pasta De Alho C/ Mussarela Gratinado"
+  },
+  {
+    "name": "Batata Frita - 250 Gr",
+    "price": "R$ 35,90",
+    "category": "Porções",
+    "description": "Acompanha: Deliciosa Maionese Do Chef e Ketchup"
+  },
+  {
+    "name": "Batata Frita C/ Cheddar E Crispy De Bacon - 250 Gr",
+    "price": "R$ 53,90",
+    "category": "Porções",
+    "description": "Acompanha: Deliciosa Maionese Do Chef e Ketchup"
+  },
+  {
+    "name": "Batata Frita C/ Cheddar E Crispy De Bacon - 500 Gr",
+    "price": "R$ 62,90",
+    "category": "Porções",
+    "description": "Acompanha: Deliciosa Maionese Do Chef e Ketchup"
+  },
+  {
+    "name": "Batata Frita - 500 Gr",
+    "price": "R$ 49,90",
+    "category": "Porções",
+    "description": "Acompanha: Deliciosa Maionese Do Chef e Ketchup"
+  },
+  {
+    "name": "Calabresa Acebolada - 500 Gr",
+    "price": "R$ 77,90",
+    "category": "Porções",
+    "description": "Acompanha: Pão,Vinagre,Farofa,Uma Deliciosa Maionese Do Chef"
+  },
+  {
+    "name": "Camarão Sete Barbas À Dorê - 500 Gr",
+    "price": "R$ 121,90",
+    "category": "Porções",
+    "description": "Acompanha: Uma Delicioso Molho Do Chef"
+  },
+  {
+    "name": "Cação À Dorê - 500 Gr",
+    "price": "R$ 101,90",
+    "category": "Porções",
+    "description": "Acompanha: Uma Delicioso Molho Do Chef"
+  },
+  {
+    "name": "Mandioca Frita - 250 Gr",
+    "price": "R$ 35,90",
+    "category": "Porções",
+    "description": "Acompanha: Deliciosa Maionese Do Chef e Ketchup"
+  },
+  {
+    "name": "Mandioca Frita - 500 Gr",
+    "price": "R$ 54,90",
+    "category": "Porções",
+    "description": "Acompanha: Deliciosa Maionese Do Chef e Ketchup"
+  },
+  {
+    "name": "Mini Pastéis De Feira - 06 Unid",
+    "price": "R$ 59,80",
+    "category": "Porções",
+    "description": "Acompanha: (03) Unid. Queijo,(03) Unid.Carne. Delicioso Molho Especial Do Chef"
+  },
+  {
+    "name": "Provolone - 200 Gr",
+    "price": "R$ 50,40",
+    "category": "Porções",
+    "description": "Acompanha: Uma Deliciosa Maionese do Chef"
+  },
+  {
+    "name": "Torresmo - 300 Gr",
+    "price": "R$ 59,90",
+    "category": "Porções",
+    "description": "Acompanha: Um Delicioso Molho Do Chef"
+  },
+  {
+    "name": "BATATA FRITA",
+    "price": "R$ 49,90",
+    "category": "Porções",
+    "description": "500 gr. de batata frita tá temperada. acompanha maionese da casa"
+  },
+  {
+    "name": "PRATO KIDS JANTAR",
+    "price": "R$ 41,90",
+    "category": "Porções",
+    "description": "uma proteina a escolha isca de frango, iscas de file mignon ou nuggets. Acompanha arroz branco, feijão e batata frita"
+  },
+  {
+    "name": "Tiras De Tilapia Empanada",
+    "price": "R$ 89,90",
+    "category": "Porções",
+    "description": "440gra, em tiras"
+  },
+  {
+    "name": "Cerveja Becks 330ml",
+    "price": "R$ 12,95",
+    "category": "Bebidas",
+    "description": "Produto para maiores de 18 anos"
+  },
+  {
+    "name": "Cerveja Budweiser Long Neck 330ml",
+    "price": "R$ 11,95",
+    "category": "Bebidas",
+    "description": "Produto para maiores de 18 anos"
+  },
+  {
+    "name": "Cerveja Long Neck Corona 330ml",
+    "price": "R$ 12,95",
+    "category": "Bebidas",
+    "description": "Produto para maiores de 18 anos"
+  },
+  {
+    "name": "Cerveja Stella Artois Puro Malte Long Neck 330ml",
+    "price": "R$ 12,95",
+    "category": "Bebidas",
+    "description": "Produto para maiores de 18 anos"
+  },
+  {
+    "name": "Cerveja Zero Álcool Budweiser 330ml",
+    "price": "R$ 12,95",
+    "category": "Bebidas",
+    "description": "Produto para maiores de 18 anos"
+  },
+  {
+    "name": "Energético Red Bull",
+    "price": "R$ 15,50",
+    "category": "Bebidas",
+    "description": "Unidade 250ml"
+  },
+  {
+    "name": "Refrigerante Guaraná Antarctica 350ml",
+    "price": "R$ 7,50",
+    "category": "Bebidas",
+    "description": "Lata 350ml"
+  },
+  {
+    "name": "Refrigerante H2oh Limoneto 500 Ml",
+    "price": "R$ 9,90",
+    "category": "Bebidas",
+    "description": "Garrafa Z500 Ml"
+  },
+  {
+    "name": "Refrigerante Pepsi 350 Ml",
+    "price": "R$ 7,50",
+    "category": "Bebidas",
+    "description": "Lata 350 Ml"
+  },
+  {
+    "name": "Refrigerante De Limão Antarctica Soda Lata 350 Ml",
+    "price": "R$ 7,50",
+    "category": "Bebidas",
+    "description": "Lata 350ml"
+  },
+  {
+    "name": "Água S/ Gás - 500 Ml",
+    "price": "R$ 5,50",
+    "category": "Bebidas",
+    "description": ""
+  },
+  {
+    "name": "Água Tônica Antarctica Ml 350 Ml",
+    "price": "R$ 8,99",
+    "category": "Bebidas",
+    "description": "Embalagem 350ml"
+  },
+  {
+    "name": "Água C/ Gás - 500 Ml",
+    "price": "R$ 6,50",
+    "category": "Bebidas",
+    "description": ""
+  },
+  {
+    "name": "SUCO UMA FRUTA",
+    "price": "R$ 17,00",
+    "category": "Bebidas",
+    "description": "COLOCAR O SABOR"
+  },
+  {
+    "name": "SUCO FRUTAS VERMELHAS",
+    "price": "R$ 24,90",
+    "category": "Bebidas",
+    "description": "Amora, morango, bertilho"
+  },
+  {
+    "name": "Arroz Branco",
+    "price": "R$ 14,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Feijao",
+    "price": "R$ 13,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Ovo Frito",
+    "price": "R$ 7,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Mistura Extra De Contra File",
+    "price": "R$ 39,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Mistura Extra De File De Frango",
+    "price": "R$ 24,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "EDAMAME",
+    "price": "R$ 16,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "MAIONESE DEFUMADA",
+    "price": "R$ 10,00",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "FAROFA",
+    "price": "R$ 9,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Molho De Tomate Artesanal",
+    "price": "R$ 10,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Mistura Extra Couve",
+    "price": "R$ 9,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Mistura Extra De Torresmo",
+    "price": "R$ 10,00",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Banana Milanesa",
+    "price": "R$ 10,90",
+    "category": "Guarnições",
+    "description": "duas bananas milanesas"
+  },
+  {
+    "name": "SHIMEJI NA MANTEIGA",
+    "price": "R$ 38,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "LEGUMES",
+    "price": "R$ 24,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Batata Doce Chips",
+    "price": "R$ 15,90",
+    "category": "Guarnições",
+    "description": ""
+  },
+  {
+    "name": "Sashimi De Salmão Tradicional",
+    "price": "Sob consulta",
+    "category": "Sashimi",
+    "description": ""
+  },
+  {
+    "name": "Sashimi De Atum Tradicional",
+    "price": "Sob consulta",
+    "category": "Sashimi",
+    "description": ""
+  },
+  {
+    "name": "Sashimi De Kani Kama",
+    "price": "Sob consulta",
+    "category": "Sashimi",
+    "description": ""
+  },
+  {
+    "name": "Sashimi De Peixe Branco",
+    "price": "Sob consulta",
+    "category": "Sashimi",
+    "description": ""
+  },
+  {
+    "name": "Sashimi De Atum Flambado",
+    "price": "Sob consulta",
+    "category": "Sashimi",
+    "description": ""
+  },
+  {
+    "name": "Sashimi De Polvo",
+    "price": "Sob consulta",
+    "category": "Sashimi",
+    "description": ""
+  },
+  {
+    "name": "Carpaccio - Salmão",
+    "price": "Sob consulta",
+    "category": "Carpaccio",
+    "description": ""
+  },
+  {
+    "name": "Carpaccio - Atum",
+    "price": "Sob consulta",
+    "category": "Carpaccio",
+    "description": ""
+  },
+  {
+    "name": "Carpaccio - Peixe Branco",
+    "price": "Sob consulta",
+    "category": "Carpaccio",
+    "description": ""
+  }
+]
