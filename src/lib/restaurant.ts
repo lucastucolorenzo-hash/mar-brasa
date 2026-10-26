@@ -22,4 +22,4 @@ export const dishes = [
 export const menuItems = fullMenu;
 export const categories = ["Todos", ...new Set(menuItems.map((item) => item.category))];
 export const address = "Av. Dr. Arthur da Costa Filho, 937 - Centro, Caraguatatuba - SP, 11660-005";
-export const directionsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`;
+export const directionsUrl = "https://www.google.com/maps/place/Mar+e+Brasa/@-23.6240754,-45.4105553,17z/data=!3m1!4b1!4m6!3m5!1s0x94cd63adef3b531b:0x14ea6b69e1617093!8m2!3d-23.6240754!4d-45.4105553!16s%2Fg%2F11sdstp158";
