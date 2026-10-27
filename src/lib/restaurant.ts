@@ -9,10 +9,10 @@ import parmegiana from "@/assets/parmegiana.jpg";
 import fullMenu from "./full-menu.json";
 
 export const dishes = [
-  { name: "Camarão no Abacaxi - 02 Pessoas", price: "R$ 199,90", category: "Frutos do Mar", image: camarao },
-  { name: "Bobó de Camarão", price: "R$ 99,90", category: "Frutos do Mar", image: bobo },
+  { name: "Camarão no Abacaxi - 02 Pessoas", price: "R$ 229,90,", category: "Frutos do Mar", image: camarao },
+  { name: "Bobó de Camarão", price: "R$ 94,90", category: "Frutos do Mar", image: bobo },
   { name: "Feijoada Individual", price: "R$ 59,90", category: "Feijoada", image: feijoada },
-  { name: "Combo Temaki + Hot", price: "R$ 54,00", category: "Combos", image: temaki },
+  { name: "Combo Temaki + Hot", price: "R$ 59,90", category: "Combos", image: temaki },
   { name: "Calabresa Acebolada", price: "R$ 41,90", category: "Entradas", image: calabresa },
   { name: "Churrasquinho de Carne", price: "R$ 39,90", category: "Carnes", image: churrasquinho },
   { name: "Escondidinho de Carne Seca", price: "R$ 39,90", category: "Carnes", image: escondidinho },
