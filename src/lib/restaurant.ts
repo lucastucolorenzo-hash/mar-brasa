@@ -9,7 +9,7 @@ import parmegiana from "@/assets/parmegiana.jpg";
 import fullMenu from "./full-menu.json";
 
 export const dishes = [
-  { name: "Camarão no Abacaxi - 02 Pessoas", price: "R$ 229,90,", category: "Frutos do Mar", image: camarao },
+  { name: "Camarão no Abacaxi - 02 Pessoas", price: "R$ 229,90", category: "Frutos do Mar", image: camarao },
   { name: "Bobó de Camarão", price: "R$ 94,90", category: "Frutos do Mar", image: bobo },
   { name: "Feijoada Individual", price: "R$ 59,90", category: "Feijoada", image: feijoada },
   { name: "Combo Temaki + Hot", price: "R$ 59,90", category: "Combos", image: temaki },
